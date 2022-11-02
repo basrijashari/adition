@@ -1,4 +1,4 @@
-## Solution for the Adition challenge
+## API implementation in Spring Boot
 
 This is a Spring Boot application, which provides two API endpoints for counting click logs for a specific campaign.
 
